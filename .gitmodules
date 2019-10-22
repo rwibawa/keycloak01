@@ -1,0 +1,6 @@
+[submodule "keycloak-backend"]
+	path = keycloak-backend
+	url = https://github.com/rwibawa/keycloak-backend
+[submodule "keycloak-ng"]
+	path = keycloak-ng
+	url = https://github.com/rwibawa/keycloak-ng
